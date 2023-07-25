@@ -709,3 +709,50 @@ Sat Jul 22 15:56:26 2023 auth.err passwd: password for root changed by root
 Sat Jul 22 15:56:29 2023 authpriv.info dropbear[755]: Early exit: Terminated by signal
 Sat Jul 22 15:56:29 2023 authpriv.info dropbear[9557]: Not backgrounding
 
+# log from nmap
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-25 10:43 MSK
+Nmap scan report for google.com (64.233.165.100)
+Host is up (0.0087s latency).
+Other addresses for google.com (not scanned): 64.233.165.139 64.233.165.113 64.233.165.101 64.233.165.102 64.233.165.138
+rDNS record for 64.233.165.100: lg-in-f100.1e100.net
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   1.65 ms 192.168.1.1
+2   5.11 ms 10.146.35.253
+3   ... 4
+5   2.66 ms 74.125.244.132
+6   9.49 ms 216.239.48.163
+7   8.19 ms 216.239.46.139
+8   ... 16
+17  5.67 ms lg-in-f100.1e100.net (64.233.165.100)
+
+Nmap scan report for microsoft.com (20.112.250.133)
+Host is up (0.14s latency).
+Other addresses for microsoft.com (not scanned): 20.231.239.246 20.76.201.171 20.70.246.20 20.236.44.162
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+-   Hops 1-2 are the same as for 64.233.165.100
+3   ...
+4   2.84 ms   ae2-298.RT.BM.SPB.RU.retn.net (87.245.251.8)
+5   14.73 ms  ae4-9.RT.TC1.STO.SE.retn.net (87.245.233.73)
+6   40.35 ms  retn.ier02.sto.ntwk.msn.net (104.44.47.27)
+7   39.34 ms  ae21-0.ear02.sto31.ntwk.msn.net (104.44.239.199)
+8   149.65 ms be-23-0.ibr02.sto31.ntwk.msn.net (104.44.22.164)
+9   150.13 ms be-6-0.ibr01.ham31.ntwk.msn.net (104.44.29.213)
+10  149.73 ms be-3-0.ibr01.ham30.ntwk.msn.net (104.44.28.244)
+11  204.56 ms be-12-0.ibr05.ams06.ntwk.msn.net (104.44.30.71)
+12  146.82 ms be-3-0.ibr02.ams21.ntwk.msn.net (104.44.29.236)
+13  148.24 ms be-1-0.ibr02.ams30.ntwk.msn.net (104.44.16.147)
+14  145.12 ms be-15-0.ibr01.lon22.ntwk.msn.net (104.44.31.0)
+15  161.50 ms be-7-0.ibr02.nyc30.ntwk.msn.net (104.44.18.154)
+16  197.46 ms be-5-0.ibr01.ewr30.ntwk.msn.net (104.44.7.103)
+17  145.28 ms be-10-0.ibr02.cle30.ntwk.msn.net (104.44.17.217)
+18  145.95 ms be-9-0.ibr01.ch4.ntwk.msn.net (104.44.29.47)
+19  176.35 ms be-8-0.ibr03.dsm05.ntwk.msn.net (104.44.28.220)
+20  170.16 ms ae212-0.icr07.dsm05.ntwk.msn.net (104.44.32.75)
+21  ... 30
+
+Nmap done: 2 IP addresses (2 hosts up) scanned in 8.50 seconds
