@@ -756,3 +756,596 @@ HOP RTT       ADDRESS
 21  ... 30
 
 Nmap done: 2 IP addresses (2 hosts up) scanned in 8.50 seconds
+
+# All morning log from my terminal
+
+Last login: Tue Jul 25 10:31:48 on ttys000
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % $ 
+zsh: command not found: $
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % bash -c "$(curl -fsSL https://raw.githubusercontent.com/tjt263/macports-installer/master/macports-installer.sh)"
+Warning: Unknown OS version.
+MacPorts-2.3.4--.pkg
+MacPorts-2.3.4.chk.txt
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   126  100   126    0     0    525      0 --:--:-- --:--:-- --:--:--   536
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  3396  100  3396    0     0  18213      0 --:--:-- --:--:-- --:--:-- 18762
+grep: .bash_profile: No such file or directory
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % sudo port install nmap
+Password:
+Sorry, try again.
+Password:
+sudo: port: command not found
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % sudo port install nmap
+sudo: port: command not found
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % brew
+Example usage:
+  brew search TEXT|/REGEX/
+  brew info [FORMULA|CASK...]
+  brew install FORMULA|CASK...
+  brew update
+  brew upgrade [FORMULA|CASK...]
+  brew uninstall FORMULA|CASK...
+  brew list [FORMULA|CASK...]
+
+Troubleshooting:
+  brew config
+  brew doctor
+  brew install --verbose --debug FORMULA|CASK
+
+Contributing:
+  brew create URL [--no-fetch]
+  brew edit [FORMULA|CASK...]
+
+Further help:
+  brew commands
+  brew help [COMMAND]
+  man brew
+  https://docs.brew.sh
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % brew install nmap
+Running `brew update --auto-update`...
+==> Downloading https://ghcr.io/v2/homebrew/portable-ruby/portable-ruby/blobs/sha256:61029cec31c68a1fae1fa90fa876adf43d0becff777da793f9b5c5577f00567a
+######################################################################### 100.0%
+==> Pouring portable-ruby-2.6.10_1.el_capitan.bottle.tar.gz
+==> Homebrew collects anonymous analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics have been recorded yet (nor will be during this `brew` run).
+
+Installing from the API is now the default behaviour!
+You can save space and time by running:
+  brew untap homebrew/core
+==> Downloading https://formulae.brew.sh/api/formula.jws.json
+######################################################################### 100.0%
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+######################################################################### 100.0%
+==> Auto-updated Homebrew!
+Updated 2 taps (homebrew/services and mongodb/brew).
+
+You have 13 outdated formulae installed.
+
+==> Fetching dependencies for nmap: liblinear, ca-certificates, openssl@3, libssh2, lua and pcre
+==> Fetching liblinear
+==> Downloading https://ghcr.io/v2/homebrew/core/liblinear/manifests/2.47
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/liblinear/blobs/sha256:785f3d2a
+######################################################################### 100.0%
+==> Fetching ca-certificates
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2023-
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/blobs/sha256:f6
+######################################################################### 100.0%
+==> Fetching openssl@3
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/manifests/3.1.1_1
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:a123a680
+######################################################################### 100.0%
+==> Fetching libssh2
+==> Downloading https://ghcr.io/v2/homebrew/core/libssh2/manifests/1.11.0_1
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libssh2/blobs/sha256:71b9199fd2
+######################################################################### 100.0%
+==> Fetching lua
+==> Downloading https://ghcr.io/v2/homebrew/core/lua/manifests/5.4.6
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/lua/blobs/sha256:9b7170b3d84e70
+######################################################################### 100.0%
+==> Fetching pcre
+==> Downloading https://ghcr.io/v2/homebrew/core/pcre/manifests/8.45
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/pcre/blobs/sha256:df481fdd99c1d
+######################################################################### 100.0%
+==> Fetching nmap
+==> Downloading https://ghcr.io/v2/homebrew/core/nmap/manifests/7.94_1-1
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/nmap/blobs/sha256:769500f197813
+######################################################################### 100.0%
+==> Installing dependencies for nmap: liblinear, ca-certificates, openssl@3, libssh2, lua and pcre
+==> Installing nmap dependency: liblinear
+==> Pouring liblinear--2.47.ventura.bottle.tar.gz
+🍺  /usr/local/Cellar/liblinear/2.47: 9 files, 335.3KB
+==> Installing nmap dependency: ca-certificates
+==> Pouring ca-certificates--2023-05-30.ventura.bottle.tar.gz
+==> Regenerating CA certificate bundle from keychain, this may take a while...
+🍺  /usr/local/Cellar/ca-certificates/2023-05-30: 3 files, 216.2KB
+==> Installing nmap dependency: openssl@3
+==> Pouring openssl@3--3.1.1_1.ventura.bottle.tar.gz
+🍺  /usr/local/Cellar/openssl@3/3.1.1_1: 6,495 files, 29.9MB
+==> Installing nmap dependency: libssh2
+==> Pouring libssh2--1.11.0_1.ventura.bottle.tar.gz
+🍺  /usr/local/Cellar/libssh2/1.11.0_1: 197 files, 1.1MB
+==> Installing nmap dependency: lua
+==> Pouring lua--5.4.6.ventura.bottle.tar.gz
+🍺  /usr/local/Cellar/lua/5.4.6: 29 files, 711.5KB
+==> Installing nmap dependency: pcre
+==> Pouring pcre--8.45.ventura.bottle.tar.gz
+🍺  /usr/local/Cellar/pcre/8.45: 204 files, 5.7MB
+==> Installing nmap
+==> Pouring nmap--7.94_1.ventura.bottle.1.tar.gz
+==> Caveats
+If using `ndiff` returns an error about not being able to import the ndiff module, try:
+  chmod go-w /usr/local/Cellar
+==> Summary
+🍺  /usr/local/Cellar/nmap/7.94_1: 830 files, 26.9MB
+==> Running `brew cleanup nmap`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Upgrading 4 dependents of upgraded formulae:
+Disable this behaviour by setting HOMEBREW_NO_INSTALLED_DEPENDENTS_CHECK.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+openssl@1.1 1.1.1q -> 1.1.1u, pyenv 2.3.5 -> 2.3.23, python@3.10 3.10.8 -> 3.10.12_1, python@3.9 3.9.15 -> 3.9.17_1
+==> Fetching openssl@1.1
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/1.1/manifests/1.1.1u
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/1.1/blobs/sha256:f0a7ff
+######################################################################### 100.0%
+==> Fetching pyenv
+==> Downloading https://ghcr.io/v2/homebrew/core/pyenv/manifests/2.3.23
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/pyenv/blobs/sha256:a10b2c5f70f5
+######################################################################### 100.0%
+==> Fetching dependencies for python@3.10: sqlite and xz
+==> Fetching sqlite
+==> Downloading https://ghcr.io/v2/homebrew/core/sqlite/manifests/3.42.0
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:4bbf2bd9382
+######################################################################### 100.0%
+==> Fetching xz
+==> Downloading https://ghcr.io/v2/homebrew/core/xz/manifests/5.4.3
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:b9aebe3c04f5f17
+######################################################################### 100.0%
+==> Fetching python@3.10
+==> Downloading https://ghcr.io/v2/homebrew/core/python/3.10/manifests/3.10.12_1
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/python/3.10/blobs/sha256:5529cf
+######################################################################### 100.0%
+==> Fetching python@3.9
+==> Downloading https://ghcr.io/v2/homebrew/core/python/3.9/manifests/3.9.17_1
+######################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/python/3.9/blobs/sha256:6b1f500
+######################################################################### 100.0%
+==> Upgrading openssl@1.1
+  1.1.1q -> 1.1.1u 
+
+==> Pouring openssl@1.1--1.1.1u.ventura.bottle.tar.gz
+🍺  /usr/local/Cellar/openssl@1.1/1.1.1u: 8,101 files, 18.5MB
+==> Running `brew cleanup openssl@1.1`...
+Removing: /usr/local/Cellar/openssl@1.1/1.1.1q... (8,097 files, 18.5MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/openssl@1.1--1.1.1q... (5.2MB)
+==> Upgrading pyenv
+  2.3.5 -> 2.3.23 
+
+==> Pouring pyenv--2.3.23.ventura.bottle.tar.gz
+🍺  /usr/local/Cellar/pyenv/2.3.23: 1,096 files, 3.4MB
+==> Running `brew cleanup pyenv`...
+Removing: /usr/local/Cellar/pyenv/2.3.5... (943 files, 3MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/pyenv--2.3.5... (707.4KB)
+==> Upgrading python@3.10
+  3.10.8 -> 3.10.12_1 
+
+==> Installing dependencies for python@3.10: sqlite and xz
+==> Installing python@3.10 dependency: sqlite
+==> Pouring sqlite--3.42.0.ventura.bottle.tar.gz
+🍺  /usr/local/Cellar/sqlite/3.42.0: 11 files, 4.5MB
+==> Installing python@3.10 dependency: xz
+==> Pouring xz--5.4.3.ventura.bottle.tar.gz
+🍺  /usr/local/Cellar/xz/5.4.3: 162 files, 2.5MB
+==> Installing python@3.10
+==> Pouring python@3.10--3.10.12_1.ventura.bottle.tar.gz
+==> /usr/local/Cellar/python@3.10/3.10.12_1/bin/python3.10 -Im ensurepip
+==> /usr/local/Cellar/python@3.10/3.10.12_1/bin/python3.10 -Im pip install -v --
+==> Caveats
+Python has been installed as
+  /usr/local/bin/python3.10
+
+Unversioned and major-versioned symlinks `python`, `python3`, `python-config`, `python3-config`, `pip`, `pip3`, etc. pointing to
+`python3.10`, `python3.10-config`, `pip3.10` etc., respectively, have been installed into
+  /usr/local/opt/python@3.10/libexec/bin
+
+You can install Python packages with
+  pip3.10 install <package>
+They will install into the site-package directory
+  /usr/local/lib/python3.10/site-packages
+
+tkinter is no longer included with this formula, but it is available separately:
+  brew install python-tk@3.10
+
+If you do not need a specific version of Python, and always want Homebrew's `python3` in your PATH:
+  brew install python3
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> Summary
+🍺  /usr/local/Cellar/python@3.10/3.10.12_1: 3,097 files, 56.1MB
+==> Running `brew cleanup python@3.10`...
+Removing: /usr/local/Cellar/python@3.10/3.10.8... (3,114 files, 56.6MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/python@3.10--3.10.8... (14.6MB)
+==> Upgrading python@3.9
+  3.9.15 -> 3.9.17_1 
+
+==> Pouring python@3.9--3.9.17_1.ventura.bottle.tar.gz
+==> /usr/local/Cellar/python@3.9/3.9.17_1/bin/python3.9 -Im ensurepip
+==> /usr/local/Cellar/python@3.9/3.9.17_1/bin/python3.9 -Im pip install -v --no-
+🍺  /usr/local/Cellar/python@3.9/3.9.17_1: 3,066 files, 55.2MB
+==> Running `brew cleanup python@3.9`...
+Removing: /usr/local/Cellar/python@3.9/3.9.15... (3,069 files, 55.5MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/python@3.9--3.9.15... (14.4MB)
+==> Checking for dependents of upgraded formulae...
+==> No broken dependents found!
+==> `brew cleanup` has not been run in the last 30 days, running now...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/autoconf--2.71... (944.3KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/c-ares--1.18.1_1... (158.4KB)
+Removing: /usr/local/Cellar/ca-certificates/2022-10-11... (3 files, 225.5KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/ca-certificates--2022-10-11... (127.5KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/gdbm--1.23... (270.6KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/icu4c--71.1... (28.2MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/libnghttp2--1.50.0... (209.9KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/libuv--1.44.2... (1.3MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/m4--1.4.19... (263.9KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/mongodb-community--6.0.1.tgz... (57.5MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/mongodb-database-tools--100.6.0.zip... (57.9MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/pkg-config--0.29.2_3... (238.9KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/readline--8.2.1... (547KB)
+Removing: /usr/local/Cellar/sqlite/3.39.4... (11 files, 4.4MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/sqlite--3.39.4... (2MB)
+Removing: /usr/local/Cellar/xz/5.2.7... (95 files, 1.4MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/xz--5.2.7... (441.8KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/sqlite_bottle_manifest--3.39.4... (6.9KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/libnghttp2_bottle_manifest--1.50.0... (6.3KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/readline_bottle_manifest--8.2.1... (6.7KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/gdbm_bottle_manifest--1.23... (6.1KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/icu4c_bottle_manifest--71.1... (7.1KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/m4_bottle_manifest--1.4.19... (7.0KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/pyenv_bottle_manifest--2.3.5... (22.2KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/openssl@1.1_bottle_manifest--1.1.1q... (7.6KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/python@3.10_bottle_manifest--3.10.8-1... (19.2KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/node@16_bottle_manifest--16.18.0... (13KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/mongosh--1.6.0... (7.9MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/python@3.9_bottle_manifest--3.9.15... (18.5KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/portable-ruby-2.6.8_1.el_capitan.bottle.tar.gz... (8.8MB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/ca-certificates_bottle_manifest--2022-10-11... (1.8KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/c-ares_bottle_manifest--1.18.1_1... (6.3KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/libuv_bottle_manifest--1.44.2... (6.3KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/mongosh_bottle_manifest--1.6.0... (16.6KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/autoconf_bottle_manifest--2.71... (9.4KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/xz_bottle_manifest--5.2.7... (6.4KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/pkg-config_bottle_manifest--0.29.2_3... (7.4KB)
+Removing: /Users/nikolaysalinder/Library/Caches/Homebrew/node@16--16.18.0... (13MB)
+Removing: /Users/nikolaysalinder/Library/Logs/Homebrew/pyenv... (64B)
+Removing: /Users/nikolaysalinder/Library/Logs/Homebrew/pkg-config... (64B)
+Removing: /Users/nikolaysalinder/Library/Logs/Homebrew/icu4c... (64B)
+Removing: /Users/nikolaysalinder/Library/Logs/Homebrew/autoconf... (64B)
+Removing: /Users/nikolaysalinder/Library/Logs/Homebrew/m4... (64B)
+Removing: /Users/nikolaysalinder/Library/Logs/Homebrew/openssl@1.1... (64B)
+Removing: /Users/nikolaysalinder/Library/Logs/Homebrew/python@3.10... (2 files, 2.5KB)
+Removing: /Users/nikolaysalinder/Library/Logs/Homebrew/python@3.9... (4 files, 4.8KB)
+Error: Permission denied @ apply2files - /usr/local/lib/docker/cli-plugins
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % mkdir -p /Applications/Docker.app/Contents/Resources/cli-plugins
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % brew cleanup
+Warning: Skipping c-ares: most recent version 1.19.1 not installed
+Warning: Skipping icu4c: most recent version 73.2 not installed
+Warning: Skipping libnghttp2: most recent version 1.55.1 not installed
+Warning: Skipping libuv: most recent version 1.46.0 not installed
+Warning: Skipping mongodb/brew/mongodb-community: most recent version 6.0.6 not installed
+Warning: Skipping mongodb/brew/mongodb-database-tools: most recent version 100.7.3 not installed
+Pruned 0 symbolic links and 4 directories from /usr/local
+
+Removing: /usr/local/Homebrew/Library/Homebrew/vendor/portable-ruby/2.6.8_1... (1,393 files, 24.4MB)
+Removing: /usr/local/Homebrew/Library/Homebrew/vendor/portable-ruby/2.6.8... (1,393 files, 24.5MB)
+Removing: /usr/local/Homebrew/Library/Homebrew/vendor/portable-ruby/2.6.10_1... (1,393 files, 24.2MB)
+==> This operation has freed approximately 73.2MB of disk space.
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % nmap
+Nmap 7.94 ( https://nmap.org )
+Usage: nmap [Scan Type(s)] [Options] {target specification}
+TARGET SPECIFICATION:
+  Can pass hostnames, IP addresses, networks, etc.
+  Ex: scanme.nmap.org, microsoft.com/24, 192.168.0.1; 10.0.0-255.1-254
+  -iL <inputfilename>: Input from list of hosts/networks
+  -iR <num hosts>: Choose random targets
+  --exclude <host1[,host2][,host3],...>: Exclude hosts/networks
+  --excludefile <exclude_file>: Exclude list from file
+HOST DISCOVERY:
+  -sL: List Scan - simply list targets to scan
+  -sn: Ping Scan - disable port scan
+  -Pn: Treat all hosts as online -- skip host discovery
+  -PS/PA/PU/PY[portlist]: TCP SYN/ACK, UDP or SCTP discovery to given ports
+  -PE/PP/PM: ICMP echo, timestamp, and netmask request discovery probes
+  -PO[protocol list]: IP Protocol Ping
+  -n/-R: Never do DNS resolution/Always resolve [default: sometimes]
+  --dns-servers <serv1[,serv2],...>: Specify custom DNS servers
+  --system-dns: Use OS's DNS resolver
+  --traceroute: Trace hop path to each host
+SCAN TECHNIQUES:
+  -sS/sT/sA/sW/sM: TCP SYN/Connect()/ACK/Window/Maimon scans
+  -sU: UDP Scan
+  -sN/sF/sX: TCP Null, FIN, and Xmas scans
+  --scanflags <flags>: Customize TCP scan flags
+  -sI <zombie host[:probeport]>: Idle scan
+  -sY/sZ: SCTP INIT/COOKIE-ECHO scans
+  -sO: IP protocol scan
+  -b <FTP relay host>: FTP bounce scan
+PORT SPECIFICATION AND SCAN ORDER:
+  -p <port ranges>: Only scan specified ports
+    Ex: -p22; -p1-65535; -p U:53,111,137,T:21-25,80,139,8080,S:9
+  --exclude-ports <port ranges>: Exclude the specified ports from scanning
+  -F: Fast mode - Scan fewer ports than the default scan
+  -r: Scan ports sequentially - don't randomize
+  --top-ports <number>: Scan <number> most common ports
+  --port-ratio <ratio>: Scan ports more common than <ratio>
+SERVICE/VERSION DETECTION:
+  -sV: Probe open ports to determine service/version info
+  --version-intensity <level>: Set from 0 (light) to 9 (try all probes)
+  --version-light: Limit to most likely probes (intensity 2)
+  --version-all: Try every single probe (intensity 9)
+  --version-trace: Show detailed version scan activity (for debugging)
+SCRIPT SCAN:
+  -sC: equivalent to --script=default
+  --script=<Lua scripts>: <Lua scripts> is a comma separated list of
+           directories, script-files or script-categories
+  --script-args=<n1=v1,[n2=v2,...]>: provide arguments to scripts
+  --script-args-file=filename: provide NSE script args in a file
+  --script-trace: Show all data sent and received
+  --script-updatedb: Update the script database.
+  --script-help=<Lua scripts>: Show help about scripts.
+           <Lua scripts> is a comma-separated list of script-files or
+           script-categories.
+OS DETECTION:
+  -O: Enable OS detection
+  --osscan-limit: Limit OS detection to promising targets
+  --osscan-guess: Guess OS more aggressively
+TIMING AND PERFORMANCE:
+  Options which take <time> are in seconds, or append 'ms' (milliseconds),
+  's' (seconds), 'm' (minutes), or 'h' (hours) to the value (e.g. 30m).
+  -T<0-5>: Set timing template (higher is faster)
+  --min-hostgroup/max-hostgroup <size>: Parallel host scan group sizes
+  --min-parallelism/max-parallelism <numprobes>: Probe parallelization
+  --min-rtt-timeout/max-rtt-timeout/initial-rtt-timeout <time>: Specifies
+      probe round trip time.
+  --max-retries <tries>: Caps number of port scan probe retransmissions.
+  --host-timeout <time>: Give up on target after this long
+  --scan-delay/--max-scan-delay <time>: Adjust delay between probes
+  --min-rate <number>: Send packets no slower than <number> per second
+  --max-rate <number>: Send packets no faster than <number> per second
+FIREWALL/IDS EVASION AND SPOOFING:
+  -f; --mtu <val>: fragment packets (optionally w/given MTU)
+  -D <decoy1,decoy2[,ME],...>: Cloak a scan with decoys
+  -S <IP_Address>: Spoof source address
+  -e <iface>: Use specified interface
+  -g/--source-port <portnum>: Use given port number
+  --proxies <url1,[url2],...>: Relay connections through HTTP/SOCKS4 proxies
+  --data <hex string>: Append a custom payload to sent packets
+  --data-string <string>: Append a custom ASCII string to sent packets
+  --data-length <num>: Append random data to sent packets
+  --ip-options <options>: Send packets with specified ip options
+  --ttl <val>: Set IP time-to-live field
+  --spoof-mac <mac address/prefix/vendor name>: Spoof your MAC address
+  --badsum: Send packets with a bogus TCP/UDP/SCTP checksum
+OUTPUT:
+  -oN/-oX/-oS/-oG <file>: Output scan in normal, XML, s|<rIpt kIddi3,
+     and Grepable format, respectively, to the given filename.
+  -oA <basename>: Output in the three major formats at once
+  -v: Increase verbosity level (use -vv or more for greater effect)
+  -d: Increase debugging level (use -dd or more for greater effect)
+  --reason: Display the reason a port is in a particular state
+  --open: Only show open (or possibly open) ports
+  --packet-trace: Show all packets sent and received
+  --iflist: Print host interfaces and routes (for debugging)
+  --append-output: Append to rather than clobber specified output files
+  --resume <filename>: Resume an aborted scan
+  --noninteractive: Disable runtime interactions via keyboard
+  --stylesheet <path/URL>: XSL stylesheet to transform XML output to HTML
+  --webxml: Reference stylesheet from Nmap.Org for more portable XML
+  --no-stylesheet: Prevent associating of XSL stylesheet w/XML output
+MISC:
+  -6: Enable IPv6 scanning
+  -A: Enable OS detection, version detection, script scanning, and traceroute
+  --datadir <dirname>: Specify custom Nmap data file location
+  --send-eth/--send-ip: Send using raw ethernet frames or IP packets
+  --privileged: Assume that the user is fully privileged
+  --unprivileged: Assume the user lacks raw socket privileges
+  -V: Print version number
+  -h: Print this help summary page.
+EXAMPLES:
+  nmap -v -A scanme.nmap.org
+  nmap -v -sn 192.168.0.0/16 10.0.0.0/8
+  nmap -v -iR 10000 -Pn -p 80
+SEE THE MAN PAGE (https://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % nmap -sn --traceroute google.com microsoft.com
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-25 10:43 MSK
+Traceroute has to be run as root
+QUITTING!
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % root nmap -sn --traceroute google.com microsoft.com
+zsh: command not found: root
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % sudo nmap -sn --traceroute google.com microsoft.com
+Password:
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-25 10:43 MSK
+Nmap scan report for google.com (64.233.165.100)
+Host is up (0.0087s latency).
+Other addresses for google.com (not scanned): 64.233.165.139 64.233.165.113 64.233.165.101 64.233.165.102 64.233.165.138
+rDNS record for 64.233.165.100: lg-in-f100.1e100.net
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   1.65 ms 192.168.1.1
+2   5.11 ms 10.146.35.253
+3   ... 4
+5   2.66 ms 74.125.244.132
+6   9.49 ms 216.239.48.163
+7   8.19 ms 216.239.46.139
+8   ... 16
+17  5.67 ms lg-in-f100.1e100.net (64.233.165.100)
+
+Nmap scan report for microsoft.com (20.112.250.133)
+Host is up (0.14s latency).
+Other addresses for microsoft.com (not scanned): 20.231.239.246 20.76.201.171 20.70.246.20 20.236.44.162
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+-   Hops 1-2 are the same as for 64.233.165.100
+3   ...
+4   2.84 ms   ae2-298.RT.BM.SPB.RU.retn.net (87.245.251.8)
+5   14.73 ms  ae4-9.RT.TC1.STO.SE.retn.net (87.245.233.73)
+6   40.35 ms  retn.ier02.sto.ntwk.msn.net (104.44.47.27)
+7   39.34 ms  ae21-0.ear02.sto31.ntwk.msn.net (104.44.239.199)
+8   149.65 ms be-23-0.ibr02.sto31.ntwk.msn.net (104.44.22.164)
+9   150.13 ms be-6-0.ibr01.ham31.ntwk.msn.net (104.44.29.213)
+10  149.73 ms be-3-0.ibr01.ham30.ntwk.msn.net (104.44.28.244)
+11  204.56 ms be-12-0.ibr05.ams06.ntwk.msn.net (104.44.30.71)
+12  146.82 ms be-3-0.ibr02.ams21.ntwk.msn.net (104.44.29.236)
+13  148.24 ms be-1-0.ibr02.ams30.ntwk.msn.net (104.44.16.147)
+14  145.12 ms be-15-0.ibr01.lon22.ntwk.msn.net (104.44.31.0)
+15  161.50 ms be-7-0.ibr02.nyc30.ntwk.msn.net (104.44.18.154)
+16  197.46 ms be-5-0.ibr01.ewr30.ntwk.msn.net (104.44.7.103)
+17  145.28 ms be-10-0.ibr02.cle30.ntwk.msn.net (104.44.17.217)
+18  145.95 ms be-9-0.ibr01.ch4.ntwk.msn.net (104.44.29.47)
+19  176.35 ms be-8-0.ibr03.dsm05.ntwk.msn.net (104.44.28.220)
+20  170.16 ms ae212-0.icr07.dsm05.ntwk.msn.net (104.44.32.75)
+21  ... 30
+
+Nmap done: 2 IP addresses (2 hosts up) scanned in 8.50 seconds
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % nmap -sP 192.168.2.0/24
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-25 10:50 MSK
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.53 seconds
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % 
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % sudo nmap -sn --traceroute google.com microsoft.com
+Password:
+Sorry, try again.
+Password:
+Sorry, try again.
+Password:
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-25 11:41 MSK
+Failed to resolve "google.com".
+Failed to resolve "microsoft.com".
+WARNING: No targets were specified, so 0 hosts scanned.
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.00 seconds
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % stacktrace
+zsh: command not found: stacktrace
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % stacktrace
+zsh: command not found: stacktrace
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % nmap -sn --traceroute google.com microsoft.com
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-25 11:50 MSK
+Traceroute has to be run as root
+QUITTING!
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % sudo nmap -sn --traceroute google.com microsoft.com
+
+Password:
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-25 11:50 MSK
+Nmap scan report for google.com (173.194.222.139)
+Host is up (0.0044s latency).
+Other addresses for google.com (not scanned): 173.194.222.100 173.194.222.102 173.194.222.138 173.194.222.113 173.194.222.101
+rDNS record for 173.194.222.139: lo-in-f139.1e100.net
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   5.43 ms 10.146.35.253
+2   ... 3
+4   1.67 ms 74.125.244.180
+5   4.46 ms 216.239.48.163
+6   6.56 ms 172.253.51.219
+7   ... 15
+16  4.40 ms lo-in-f139.1e100.net (173.194.222.139)
+
+Nmap scan report for microsoft.com (20.112.250.133)
+Host is up (0.15s latency).
+Other addresses for microsoft.com (not scanned): 20.231.239.246 20.76.201.171 20.70.246.20 20.236.44.162
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 173.194.222.139
+2   ...
+3   1.06 ms   ae2-298.RT.BM.SPB.RU.retn.net (87.245.251.8)
+4   12.27 ms  ae4-9.RT.TC1.STO.SE.retn.net (87.245.233.73)
+5   39.84 ms  retn.ier01.sto.ntwk.msn.net (104.44.47.25)
+6   39.91 ms  ae21-0.ear01.sto31.ntwk.msn.net (104.44.239.193)
+7   145.43 ms be-22-0.ibr01.sto31.ntwk.msn.net (104.44.22.162)
+8   149.46 ms be-6-0.ibr01.ham31.ntwk.msn.net (104.44.29.213)
+9   145.76 ms be-3-0.ibr01.ham30.ntwk.msn.net (104.44.28.244)
+10  143.27 ms be-12-0.ibr05.ams06.ntwk.msn.net (104.44.30.71)
+11  149.66 ms be-7-0.ibr02.nyc30.ntwk.msn.net (104.44.18.154)
+12  273.04 ms be-1-0.ibr01.ams30.ntwk.msn.net (104.44.16.149)
+13  237.79 ms be-15-0.ibr01.lon22.ntwk.msn.net (104.44.31.0)
+14  149.90 ms be-11-0.ibr02.ch4.ntwk.msn.net (104.44.29.45)
+15  146.99 ms be-7-0.ibr04.dsm05.ntwk.msn.net (104.44.28.222)
+16  152.10 ms ae160-0.icr03.dsm05.ntwk.msn.net (104.44.22.206)
+17  148.50 ms be-1-0.ibr02.cle30.ntwk.msn.net (104.44.7.90)
+18  ... 29
+30  151.73 ms 20.112.250.133
+
+Nmap done: 2 IP addresses (2 hosts up) scanned in 8.83 seconds
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % sudo nmap -sn --traceroute google.com microsoft.com
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-25 11:51 MSK
+Nmap scan report for google.com (173.194.222.139)
+Host is up (0.043s latency).
+Other addresses for google.com (not scanned): 173.194.222.100 173.194.222.102 173.194.222.138 173.194.222.113 173.194.222.101
+rDNS record for 173.194.222.139: lo-in-f139.1e100.net
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT      ADDRESS
+1   43.58 ms 10.146.35.253
+2   ... 3
+4   39.77 ms 74.125.244.180
+5   44.34 ms 142.251.61.219
+6   44.50 ms 142.251.61.221
+7   46.12 ms 172.253.51.243
+8   ... 16
+17  43.44 ms lo-in-f139.1e100.net (173.194.222.139)
+
+Nmap scan report for microsoft.com (20.112.250.133)
+Host is up (0.19s latency).
+Other addresses for microsoft.com (not scanned): 20.231.239.246 20.76.201.171 20.70.246.20 20.236.44.162
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 173.194.222.139
+2   ...
+3   39.83 ms  ae2-298.RT.BM.SPB.RU.retn.net (87.245.251.8)
+4   53.46 ms  ae4-9.RT.TC1.STO.SE.retn.net (87.245.233.73)
+5   77.72 ms  retn.ier02.sto.ntwk.msn.net (104.44.47.27)
+6   78.92 ms  ae21-0.ear02.sto31.ntwk.msn.net (104.44.239.199)
+7   183.03 ms be-24-0.ibr01.sto31.ntwk.msn.net (104.44.22.170)
+8   190.30 ms be-6-0.ibr01.ham31.ntwk.msn.net (104.44.29.213)
+9   185.30 ms be-3-0.ibr01.ham30.ntwk.msn.net (104.44.28.244)
+10  229.70 ms be-12-0.ibr05.ams06.ntwk.msn.net (104.44.30.71)
+11  182.24 ms be-11-0.ibr01.ams21.ntwk.msn.net (104.44.29.242)
+12  184.88 ms be-1-0.ibr01.ams30.ntwk.msn.net (104.44.16.149)
+13  182.14 ms be-15-0.ibr01.lon22.ntwk.msn.net (104.44.31.0)
+14  184.67 ms be-10-0.ibr01.nyc30.ntwk.msn.net (104.44.18.152)
+15  184.46 ms be-5-0.ibr01.ewr30.ntwk.msn.net (104.44.7.103)
+16  184.29 ms be-8-0.ibr01.cle30.ntwk.msn.net (104.44.17.201)
+17  186.70 ms be-1-0.ibr02.cle30.ntwk.msn.net (104.44.7.90)
+18  185.32 ms be-11-0.ibr02.ch4.ntwk.msn.net (104.44.29.45)
+19  181.76 ms be-7-0.ibr04.dsm05.ntwk.msn.net (104.44.28.222)
+20  196.10 ms ae160-0.icr03.dsm05.ntwk.msn.net (104.44.22.206)
+21  ... 25
+26  185.68 ms 20.112.250.133
+
+Nmap done: 2 IP addresses (2 hosts up) scanned in 7.47 seconds
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % nmap -sn --traceroute google.com microsoft.com     
+
+
