@@ -1348,4 +1348,1108 @@ HOP RTT       ADDRESS
 Nmap done: 2 IP addresses (2 hosts up) scanned in 7.47 seconds
 nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % nmap -sn --traceroute google.com microsoft.com     
 
+# My terminal commands
+ 1  git checkout vitaliy
+    2  git checkout -b "nikolay"
+    3  npm i
+    4  npm run dev
+    5  git status
+    6  git commit "Add 2 pages"
+    7  git add .
+    8  git commit -m "Add 2 pages"
+    9  git checkout vitaliy
+   10  npm run start:dev
+   11  ды
+   12  ls
+   13  cd Desktop
+   14  ls
+   15  cd Educate
+   16  ls
+   17  cd udemy
+   18  ls
+   19  npm i -g @nestjs/cli
+   20  nest new Vue3Nuxt.jsandNestJS:ARapidGuide-Advanced\n
+   21  ls
+   22  cd vue3-nuxt.jsand-nest-js:arapid-guide-advanced
+   23  ls
+   24  ls
+   25  cd ..
+   26  ls
+   27  cd ..
+   28  cd ..
+   29  ls
+   30  cd Projects
+   31  git clone git@github.com:nikolaysalinder/currency.git
+   32  cd currency
+   33  ls
+   34  node -v
+   35  nvm
+   36  nvm use 14
+   37  vue --version
+   38  vue create .
+   39  yarn
+   40  nvm use 15
+   41  nvm
+   42  nvm install 14
+   43  nvm install 14
+   44  yarn
+   45  npm i yarn
+   46  yarn 
+   47  npm install --global yarn
+   48  yarn 
+   49  yarn 
+   50  yarn
+   51  yarn serve
+   52  yarn add vue-multiselect
+   53  yarn serve
+   54  yarn remove vue-multiselect
+   55  yarn add vue-multiselect@next
+   56  yarn serve
+   57  nvm
+   58  node -v
+   59  yarn serve
+   60  npm i
+   61  npm run serve
+   62  git status
+   63  git checkout -b "Nikolay"
+   64  npm run serve
+   65  git status
+   66  npm run serve
+   67  git status
+   68  git add .
+   69  git commit -m "End first task"
+   70  npm run serve
+   71  npm install @dansmaculotte/vue-crisp-chat --save
+   72  npm run serve
+   73  git status
+   74  git add .
+   75  git commit -m "Add assistang plug-in"
+   76  git status
+   77  git branc
+   78  git branch
+   79  git merge master
+   80  git status
+   81  git push
+   82  git push --set-upstream origin Nikolay
+   83  npm run serve
+   84  npm run serve
+   85  npm run serve
+   86  vue create .
+   87  vue create .
+   88  npm run serve
+   89  node --v
+   90  node -v
+   91  nvm
+   92  nvm use 14
+   93  npm run serve
+   94  npm i
+   95  npm run serve
+   96  npm run serve
+   97  node -v
+   98  nvm use 14
+   99  npm run serve
+  100  git status
+  101  git add .
+  102  git commit -m "Added children module"
+  103  git status
+  104  git push
+  105  git status
+  106  git add .
+  107  git commit -m "Change label for children adding"
+  108  git push
+  109  npm run serve
+  110  git status
+  111  git add .
+  112  git commit -m "Fix parent name"
+  113  git push
+  114  nvm
+  115  nvm use 14
+  116  npm run serve
+  117  npm i
+  118  npm run serve
+  119  npm run serve
+  120  node -v
+  121  nvm use 14
+  122  npm run serve
+  123  npm run serve
+  124  git status
+  125  git checkout src/components/ActivityCard.vue master
+  126  git log
+  127  git diff
+  128  git status
+  129  git checkout master src/components/ActivityCard.vue
+  130  npm run serve
+  131  ls
+  132  cd Desktop
+  133  ls
+  134  cd Work
+  135  git clone git@github.com:skkap/lookback-frontend.git
+  136  ls
+  137  cd ..
+  138  ls
+  139  cd Projects
+  140  ls
+  141  git clone git@github.com:nikolaysalinder/test-work.git
+  142  git clone git@github.com:nikolaysalinder/test-work.git
+  143  ls
+  144  vue create
+  145  vue create game
+  146  npm run serve
+  147  git status
+  148  git add .
+  149  git commit -m "Fix ussues"
+  150  git push
+  151  npm run dev
+  152  npm run serve
+  153  git status
+  154  git add .
+  155  git commit -m "delete unusefull code"
+  156  git push
+  157  npm run serve
+  158  git status
+  159  npm run serve
+  160  npm run serve
+  161  npm run serve
+  162  npm run serve
+  163  git status
+  164  git add .
+  165  git commit -m "Fix Activity card"
+  166  npm run serve
+  167  git status
+  168  git add .
+  169  git commit -m "Add shadow and set width"
+  170  git push
+  171  npm run serve
+  172  git status
+  173  git checkout master src/views/SingleActivity.vue
+  174  npm run serve
+  175  git status
+  176  git add .
+  177  git commit -m "fix tab shadow"
+  178  git push
+  179  git status
+  180  npm run serve
+  181  npm run start
+  182  npm run start:dev
+  183  git clone git@github.com:AlliKalykov/qrc.git
+  184  python
+  185  python3
+  186  locate bin/postgres
+  187  postgres
+  188  Postgress
+  189  su - postgres
+  190  su - postgres
+  191  su - postgres
+  192  su - postgres
+  193  postgress
+  194  su - postgres
+  195  sudo -u postgres psql
+  196  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  197  ls
+  198  cd etc
+  199  cd /etc
+  200  ls
+  201  cd postgres
+  202  cd postgresql
+  203  cd
+  204  postgres
+  205  su - postgres
+  206  su - postgres
+  207  su - postgres
+  208  /usr/lib/postgresql/14/bin/postgres -V
+  209  \tcd /etc
+  210  ls
+  211  cd /var
+  212  ls
+  213  cd lib
+  214  ls
+  215  cd 
+  216  postgress
+  217  postgres
+  218  psql
+  219  cd /var/
+  220  ls
+  221  cd lib
+  222  ls
+  223  cd /Library
+  224  ls
+  225  cd PostgreSQL
+  226  ls
+  227  cd 14
+  228  ls
+  229  cd data
+  230  sudo cd data
+  231  sudo cd data
+  232  cd data
+  233  sudo cd data
+  234  ls
+  235  ps aux | grep postgres
+  236  SHOW hba_file;
+  237  ps -ef | grep postgres
+  238  sudo nano /Library/PostgreSQL/14/data/pg_hba.conf
+  239  sudo nano /Library/PostgreSQL/14/data/pg_hba.conf
+  240  sudo nano /Library/PostgreSQL/14/data/pg_hba.conf
+  241  sudo service postgresql reload
+  242  sudo service postgresql reload
+  243  su service postgresql reload
+  244  sudo service postgresql reload
+  245  sudo nano /Library/PostgreSQL/14/data/pg_hba.conf
+  246  sudo service postgresql reload
+  247  /usr/local/var/postgres restart
+  248  brew services restart postgres
+  249  pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log restart
+  250  sudo -u postgres /Library/PostgreSQL/14/bin/pg_ctl -D /Library/PostgreSQL/14/data restart
+  251  postgress
+  252  postgres
+  253  psql
+  254  sudo nano /Library/PostgreSQL/14/data/pg_hba.conf
+  255  sudo -u postgres psql
+  256  sudo nano /Library/PostgreSQL/14/data/pg_hba.conf
+  257  /Library/PostgreSQL/14/bin/pg_ctl restart -D /Library/PostgreSQL/14/data/
+  258  sudo /Library/PostgreSQL/14/bin/pg_ctl restart -D /Library/PostgreSQL/14/data/
+  259  su /Library/PostgreSQL/14/bin/pg_ctl restart -D /Library/PostgreSQL/14/data/
+  260  su /Library/PostgreSQL/14/bin/pg_ctl restart -D /Library/PostgreSQL/14/data/
+  261  su /Library/PostgreSQL/14/bin/pg_ctl restart -D /Library/PostgreSQL/14/data/
+  262  sudo nano /Library/PostgreSQL/14/data/pg_hba.conf
+  263  sudo -u postgres psql
+  264  /Library/PostgreSQL/14/uninstall-postgresql.app
+  265  sudo /Library/PostgreSQL/14/uninstall-postgresql.app
+  266  sudo /Library/PostgreSQL/14/uninstall-postgresql,app/Contents/MAacOs/installbuilder.sh
+  267  sudo /Library/PostgreSQL/14/uninstall-postgresql
+  268  sudo /Library/PostgreSQL/14/uninstall-postgresql,app/Contents/MAacOs/installbuilder.sh
+  269  sudo /Library/PostgreSQL/14/uninstall-postgresql.app/Contents/MacOS/installbuilder.sh
+  270  sudo rm -rf /Library/PostgreSQL
+  271  sudo rm /etc/postgres-reg.ini
+  272  sudo rm /etc/sysctl.conf
+  273  brew install posgres
+  274  cd 
+  275  brew install postgres
+  276  brew update
+  277  sudo nano /Library/PostgreSQL/14/data/config.py
+  278  sudo /Library/PostgreSQL/9.1/uninstall-postgresql.app/Contents/MacOS/installbuilder.sh
+  279  sudo /Library/PostgreSQL/14/uninstall-postgresql.app/Contents/MacOS/installbuilder.sh
+  280  sudo rm -rf /Library/PostgreSQL
+  281  sudo rm /etc/postgres-reg.ini
+  282  sudo rm /etc/sysctl.conf
+  283  sudo mkdir -p /etc/paths.d &&\necho /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp
+  284  psql -U postgres
+  285  vue create .
+  286  pip install virtualenv
+  287  virtualenv venv
+  288  python3 -m venv venv
+  289  source venv/bin/activate
+  290  cd ..
+  291  ls
+  292  pip install virtualenv
+  293  pip3 install virtualenv
+  294  virtualenv venv
+  295  virtualenv -p python3 venv
+  296  python3 -m venv venv
+  297  source venv/bin/activate
+  298  pip install -r requirements.txt
+  299  pip freeze
+  300  python manage.py runserver
+  301  locate bin/postgres
+  302  locate bin/postgres
+  303  python manage.py runserver
+  304  python manage.py migrate
+  305  python manage.py createsuperuser
+  306  python manage.py runserver
+  307  python manage.py runserver
+  308  python manage.py runserver
+  309  python3 manage.py runserver
+  310  source venv/bin/activate
+  311  python3 manage.py runserver
+  312  python3 manage.py runserver
+  313  source venv/bin/activate
+  314  python3 manage.py runserver
+  315  git pull
+  316  git fetch
+  317  git branch
+  318  vue create .
+  319  npm i yarn
+  320  vue create .
+  321  git status
+  322  nvm
+  323  nvm use 14
+  324  nvm alias default 14
+  325  vue create .
+  326  git status
+  327  git add .
+  328  git commit -m "Init project"
+  329  git pull
+  330  git push
+  331  git push
+  332  git checkout -b dev
+  333  yarn dev
+  334  yarn
+  335  yarn serve
+  336  git clone git@github.com:AlliKalykov/qrc.git
+  337  DEBUG=on\nSECRET_KEY=django-insecure-632z#yb6)@riza#xh*n3j3&(0g^rishbpg-!k@*5*04xw9i(4o\nDATABASE_URL=psql://qrc:qrc@127.0.0.1:5432/qrc
+  338  git clone git@github.com:AlliKalykov/qrc_front.git
+  339  git clone git@github.com:AlliKalykov/qrc_front.git
+  340  cd qrc
+  341  source venv/bin/activate
+  342  virtualenv venv
+  343  virtualenv -p python3 venv
+  344  python3 -m venv venv
+  345  python3 -m venv venv
+  346  python3 -m venv venv
+  347  python3 manage.py runserver
+  348  python manage.py runserver
+  349  source venv/bin/activate
+  350  python manage.py runserver
+  351  python3 manage.py runserver
+  352  python manage.py runserver
+  353  deactivate
+  354  source venv/bin/activate
+  355  python manage.py runserver
+  356  python manage.py runserver
+  357  python3 manage.py runserver
+  358  python
+  359  ls
+  360  pip freezy
+  361  pip freeze
+  362  pip install -r requirenments.txt
+  363  pip install -r requirements.txt
+  364  python manage.py runserver
+  365  exit
+  366  ssh nick@151.115.55.2
+  367  docker exec -it 104170fe4762e1c1f0838a950a93ca602b7d4d6fe759af1ca1ad9f0fbc9716c0 /bin/sh
+  368  gulp
+  369  npm i
+  370  gulp
+  371  yarn serve
+  372  yarn serve
+  373  rsync --archive --chown=nick:nick ~/.ssh /home/nick
+  374  ls
+  375  cd Desktop
+  376  ls
+  377  cd Projects
+  378  ls
+  379  git clone git@github.com:nikolaysalinder/zealous.foggystar.com.git
+  380  ls
+  381  ls
+  382  mkdir wpwebsite
+  383  cd zealous.foggystar.com
+  384  touch docker-compose.yaml
+  385  sudo nano docker-compose.yaml
+  386  docker-compose up
+  387  docker-compose up
+  388  docker-compose up
+  389  docker run -d -p 80:80 docker/getting-started
+  390  docker-compose up
+  391  docker-compose up
+  392  docker ps
+  393  docker kill $(docker ps -q)
+  394  docker ps
+  395  ls
+  396  mkdir verstka
+  397  cd verstka
+  398  cd ..
+  399  git clone git@github.com:nikolaysalinder/gulp4-starter.gi
+  400  git clone git@github.com:nikolaysalinder/gulp4-starter.git
+  401  cd gulp4-starter
+  402  cd ..
+  403  mv gulp4-starter verstka
+  404  ls
+  405  cd verstka
+  406  ls
+  407  ls
+  408  cd ..
+  409  cd ..
+  410  ls
+  411  cd wpwebsite
+  412  ls
+  413  sudo nano docker-compose.yaml
+  414  ls
+  415  docker-compose up
+  416  docker ps
+  417  cd ..
+  418  ls
+  419  cd zealous.foggystar.com
+  420  docker-compose up
+  421  docker rm $(docker ps -a -q)
+  422  docker-compose up
+  423  docker rmi $(docker images -q)
+  424  docker rmi $(docker images -q)
+  425  docker kill $(docker ps -q)
+  426  docker-compose up
+  427  pbcopy < ~/.ssh/id_rsa.pub
+  428  ssh root@151.115.55.2
+  429  ды
+  430  ls
+  431  cd ~/.ssh
+  432  ls
+  433  sudo nano id_ed25519.pub
+  434  cd
+  435  ssh root@151.115.55.2
+  436  ssh root@151.115.55.2
+  437  ssh root@151.115.55.2
+  438  ssh root@151.115.55.2
+  439  cd /opt/letsencrypt
+  440  ssh root@151.115.55.2
+  441  ssh root@151.115.55.2
+  442  ssh root@151.115.55.2
+  443  ssh root@151.115.55.2
+  444  ssh root@151.115.55.2
+  445  docker stop $(docker ps -a -q)
+  446  docker rm $(docker ps -a -q)
+  447  mkdir test-work3
+  448  cd test-work3
+  449  ls
+  450  vue create .
+  451  yarn serve
+  452  yarn serve
+  453  ssh root@151.115.55.2
+  454  cd root@172.67.218.212
+  455  ssh root@172.67.218.212
+  456  cd app
+  457  yarn dev
+  458  yarn create nuxt-app <project-name
+  459  yarn create nuxt-app .
+  460  yarn dev
+  461  yarn add aframe
+  462  yarn dev
+  463  yarn dev
+  464  yarn serve
+  465  yarn serve
+  466  yarn dev
+  467  yarn dev
+  468  ls
+  469  cd Desktop
+  470  cd pr
+  471  cd Projects
+  472  ls
+  473  git clone git@github.com:nikolaysalinder/visualspace.git
+  474  git status
+  475  git clone git@github.com:nikolaysalinder/card-game.git
+  476  vue create antd-demo
+  477  cd ..
+  478  cd kReisereporter
+  479  rm -rf antd-demo
+  480  vue create antd-demo
+  481  vue create .
+  482  vue create antd-demo
+  483   npm i --save ant-design-vue
+  484  git status
+  485  git add .
+  486  git commit -m "Initial commit"
+  487  git checkout -b develop
+  488  git checkout -b layouts
+  489  git status
+  490  git push
+  491  git push --set-upstream origin layouts
+  492  npm i --save ant-design-vue
+  493  nvm -v
+  494  nvm
+  495  nvm alias default 16
+  496  nvm use 16
+  497  npm run serve
+  498  npm rebuild node-sass
+  499  npm run serve
+  500  nvm use 14
+  501  nvm alias default 14
+  502  nvm use 14
+  503  npm run serve
+  504  npm i @ant-design/icons-vue
+  505  npm run serve
+  506  npx nuxi init .
+  507  ls
+  508  cd ..
+  509  ls
+  510  cd proje
+  511  cd Projects
+  512  npx nuxi init nuxt-a-frame
+  513  yarn install
+  514  cd nuxt-a-frame
+  515  yarn install
+  516  pbcopy < ~/.ssh/id_rsa.pub
+  517  ssh root@78.40.216.83
+  518  ssh nick@78.40.216.83
+  519  ssh nick@78.40.216.83
+  520  ssh nick@78.40.216.83
+  521  ssh nick@78.40.216.83
+  522  ssh-copy-id nick@78.40.216.83
+  523  ssh nick@78.40.216.83
+  524  ssh nick@78.40.216.83
+  525  ssh root@78.40.216.71
+  526  ssh nick@78.40.216.71
+  527  ls
+  528  cd Downloads
+  529  ls
+  530  pwd
+  531  ssh nick@78.40.216.71
+  532  ssh nick@78.40.216.71
+  533  ssh nick@78.40.216.71
+  534  ssh nick@78.40.216.71
+  535  ssh-copy-id nick@78.40.216.71
+  536  ssh nick@78.40.216.71
+  537  ssh nick@78.40.216.71
+  538  ssh nick@78.40.216.71
+  539  scp root@78.40.216.71:/home/VPN/configs/Mac-Nick.conf /Users/nikolaysalinder/Downloads
+  540  ssh root@78.40.216.71:/Home/VPN/configs/Mac-Nick.conf /Users/nikolaysalinder/Downloads
+  541  ssh root@78.40.216.71
+  542  nick@78.40.216.71
+  543  ssh nick@78.40.216.71
+  544  ssh nick@78.40.216.71
+  545  ssh root@85.193.93.154
+  546  ssh root@85.193.93.154
+  547  whois
+  548  whois 85.193.93.154
+  549  ls
+  550  cd Downloads
+  551  pwd
+  552  ssh nick@85.193.93.154
+  553  ssh-copy-id nick@85.193.93.154
+  554  ssh-copy-id nick@85.193.93.154
+  555  ssh nick@85.193.93.154
+  556  ssh nick@85.193.93.154
+  557  ssh nick@85.193.93.154
+  558  mmap 85.193.93.154
+  559  nmap 85.193.93.154
+  560  sudo nmap 85.193.93.154
+  561  ssh nick@85.193.93.154
+  562  ssh nick@85.193.93.154
+  563  ls
+  564  cd Desktop/Projects
+  565  git clone git@github.com:tparisi/WebGLBook.git
+  566  cd WebGLBook
+  567  python -m SimpleHTTPServer
+  568  python --version
+  569  brew install python
+  570  python --version
+  571  pip3
+  572  pip3 install python
+  573  python --version
+  574  type python
+  575  type ptyon2
+  576  type python2
+  577  type python3
+  578  which python
+  579  which python
+  580  type -a python
+  581  which python
+  582  ls -l /usr/bin/python
+  583  brew install pyenv
+  584  brew upgrade
+  585  pyenv install --list
+  586  pyenv install 2.7.18
+  587  python --version
+  588  pyenv versions
+  589  pyenv global 2.7.18
+  590  pyenv versions
+  591  python --version
+  592  eval "$(pyenv init --path)"
+  593  python
+  594  python --version
+  595  sudo nano ~/.zshrc
+  596  source ~/.sprofile
+  597  source ~/.zprofile
+  598  python --version
+  599  python -m SimpleHTTPServer
+  600  python -m SimpleHTTPServer
+  601  python -m SimpleHTTPServer
+  602  python -m SimpleHTTPServer
+  603  ssh nick@85.193.93.154
+  604  ssh nick@85.193.93.154
+  605  python -m SimpleHTTPServer
+  606  python -m SimpleHTTPServer
+  607  python -m SimpleHTTPServer
+  608  git clone git@github.com:nikolaysalinder/gulp4-starter.git
+  609  cd gulp4-starter
+  610  npm i
+  611  gulp
+  612  gulp
+  613  ls
+  614  gulp
+  615  cd Desktop/Projects
+  616  ls
+  617  git clone git@github.com:PacktPublishing/Real-Time-3D-Graphics-with-WebGL-2.git
+  618  ls
+  619   cd Real-Time-3D-Graphics-with-WebGL-2
+  620  cd ..
+  621  idea Real-Time-3D-Graphics-with-WebGL-2
+  622  python
+  623  python -V
+  624  python3 -V
+  625  python3 -m http.server
+  626  python3 -m http.server
+  627  python3 -m http.server
+  628  python3 -m http.server
+  629  ssh nick@85.193.93.154
+  630  python3 -m http.server
+  631  python3 -m http.server
+  632  python3 -m http.server
+  633  python3 -m http.server
+  634  python3 -m http.server
+  635  python3 -m http.server
+  636  npm install
+  637  npm run
+  638  npm run dev
+  639  npm run
+  640  npm run dev
+  641  npm run
+  642  npm 
+  643  npm help
+  644  npm -h
+  645  npm run
+  646  ls
+  647  cd Desktop/Projects
+  648  git clone git@github.com:PacktPublishing/Learn-Three.js-Third-Edition.git
+  649  npm start
+  650  npm start
+  651  npm starts
+  652  npm start
+  653  npm serve
+  654  npm serve index.js
+  655  npm run index.js
+  656  python3 -m http.server
+  657  python3 -m http.server
+  658  python3 -m http.server
+  659  git clone git@github.com:josdirksen/learning-threejs-third.git
+  660  git clone git@github.com:josdirksen/learning-threejs-third.git
+  661  python3 -m http.server
+  662  python3 -m http.server
+  663  nmap
+  664  python3 -m http.server
+  665  python3 -m http.server
+  666  python3 -m http.server
+  667  python3 -m http.server
+  668  python3 -m http.server
+  669  python3 -m http.server
+  670  python3 -m http.server
+  671  python3 -m http.server
+  672  python3 -m http.server
+  673  python3 -m http.server
+  674  python3 -m http.server
+  675  python3 -m http.server
+  676  python3 -m http.server
+  677  python3 -m http.server
+  678  python3 -m http.server
+  679  python3 -m http.server
+  680  python3 -m http.server
+  681  python3 -m http.server
+  682  tracceroute hackware.ru
+  683  traceroute hackware.ru
+  684  suto traceroute hackware.ru
+  685  sudo traceroute hackware.ru
+  686  wget - p http://instagram.com
+  687  ping instagram.com
+  688  ping instagram.com
+  689  python3 -m http.server
+  690  git status
+  691  git add .
+  692  git clone git@github.com:jonasschmedtmann/complete-javascript-course.git
+  693  ls
+  694  cd HD/
+  695  cd /
+  696  ls
+  697  ipconfig
+  698  ipconfig
+  699  system_profiler SPHardwareDataType
+  700  ip a
+  701  wg-easy
+  702  node -v
+  703  nvm -v
+  704  nvm -h
+  705  nvm install --lt
+  706  nvm ls-remote
+  707  nvm install v18.16.0
+  708  nvm -v
+  709  node -v
+  710  pnpm dlx nuxit init sainder.ru-nuxt
+  711  npm install -g pnpm
+  712  pnpm dlx nuxi init salinder.ru-nuxt
+  713  nvm h
+  714  npm use --lts
+  715  nvm use --lts
+  716  pnpm -v
+  717  npm install -g pnpm
+  718  npm fund
+  719  pnpm dlx nuxi init salinder.ru-nuxt
+  720  ls
+  721  cd Desktop
+  722  ls
+  723  cd Projects
+  724  ls
+  725  pnpm dlx nuxi init salinder.ru-nuxt
+  726  cd salinder.ru-nuxt
+  727  pnpm install
+  728  pnpm run dev
+  729  pnpm run dev
+  730  nvm -v
+  731  node -v
+  732  nvm use --lts
+  733  ls
+  734  rm -rf salinder.ru-nuxt
+  735  ls
+  736  pnpm -v
+  737  pnpm run dev
+  738  nvm list
+  739  nvm v18
+  740  nvm alias default 18
+  741  node -v
+  742  nvm alias default 18.16.0
+  743  node -v
+  744  mkdir components public static pages
+  745  mkdir components static pages
+  746  node -v
+  747  pnpm install
+  748  pnpm run dev
+  749  pnpm dev -o
+  750  pnpm dev -o
+  751  pnpm dev -o
+  752  pnpm dev -o
+  753  pnpm dev -o
+  754  pnpm install eslint
+  755  pnpm uninstall eslint
+  756  pnpm install --dev eslint
+  757  pnpm install - eslint
+  758  pnpm install  eslint export default defineNuxtConfig({\n  components: [\n    {\n      path: '~/components',\n+     pathPrefix: false,\n    },\n  ],\n});
+  759  pnpm i eslint -D
+  760  pnpm i prettier eslint-config-prettier eslint-plugin-prettier
+  761  pnpm uninstall prettier eslint-config-prettier eslint-plugin-prettier
+  762  pnpm i prettier -D eslint-config-prettier -D eslint-plugin-prettier -D
+  763  pnpm uinstall eslint prettier eslint-config-prettier eslint-plugin-prettier
+  764  pnpm unistall eslint prettier eslint-config-prettier eslint-plugin-prettier
+  765  pnpm uninstall eslint prettier eslint-config-prettier eslint-plugin-prettier
+  766  pnpm install prettier eslint-config-prettier eslint-plugin-prettier @nuxt/eslint-config eslint
+  767  pnpm uninstall prettier eslint-config-prettier eslint-plugin-prettier @nuxt/eslint-config eslint
+  768  pnpm install prettier eslint-config-prettier eslint-plugin-prettier @nuxt/eslint-config eslint -D
+  769  pnpm install prettier eslint-config-prettier eslint-plugin-prettier @nuxt/eslint-config eslint -D
+  770  pnpm i eslint -D
+  771  pnpm dev
+  772  pnpm dev
+  773  dev -o
+  774  pnpm -o
+  775  pnpm o
+  776  pnpm dev o
+  777  pnpm -o
+  778  pnpm o
+  779  pnpm run o
+  780  pnpm run
+  781  nuxt dev
+  782  nuxt dev
+  783  nuxt dev
+  784  nuxt dev
+  785  nuxt dev
+  786  git@github.com:nikolaysalinder/nikolaysalinder.github.io.git
+  787  ls
+  788  cd Desktop/Projects
+  789  git clone git@github.com:nikolaysalinder/nikolaysalinder.github.io.git
+  790  ssh-keygen -R github.com
+  791  ssh-keygen -R github.com
+  792  git clone git@github.com:nikolaysalinder/nikolaysalinder.github.io.git
+  793  pnpm i -d sass sass-loader
+  794  pnpm add -g pnpm
+  795  npm install -g pnpm
+  796  pnpm add -g pnpm
+  797  pnpm setup
+  798  source /Users/nikolaysalinder/.zshrc
+  799  pnpm add -g pnpm
+  800  pnpm dev 
+  801  node -v
+  802  node path
+  803  what node
+  804  which node
+  805  pnpm dev
+  806  git status
+  807  nuxt dev
+  808  pnpm dev -o
+  809  nuxt dev
+  810  pnpm add -g eslint
+  811  pnpm setup
+  812  pnpm add -g eslint
+  813  pnpm setup
+  814  fuck you musk
+  815  which pnpm
+  816  subl ~/.zshrc
+  817  which node
+  818  pnpm -v
+  819  pnpm dev -O
+  820  which eslint
+  821  which node
+  822  which prettier
+  823  which sass
+  824  pnpm remove sass sass-loader
+  825  pnpm add eslint -D
+  826  pnpm dev -O
+  827  pnpm dev -O
+  828  pnpm dev -O
+  829  pnpm dev -O
+  830  pnpm remove @nuxt/eslint-config eslint eslint-config-prettier eslint-plugin-prettier prettier
+  831  pnpm dev -O
+  832  pnpm add -D eslint eslint-plugin-vue
+  833  pnpm add -D eslint eslint-plugin-vue
+  834  pnpm dev -O
+  835  nuxt dev
+  836  pnpm remove eslint-plugin-vue
+  837  pnpm add -D @nuxt/eslint-config
+  838  nuxt dev -O
+  839  pnpm remove @nuxt/eslint-config
+  840  pnpm add -D eslint @nuxtjs/eslint-module
+  841  which eslint
+  842  {\n  "extends": [\n    "@nuxtjs/eslint-config-typescript"\n  ]\n}
+  843  nuxt dev
+  844  pnpm @nuxt/eslint-config
+  845  pnpm add -D  @nuxt/eslint-config
+  846  nuxt dev
+  847  nuxt dev
+  848  nuxt dev
+  849  clear
+  850  nuxt dev
+  851  nuxt dev
+  852  nuxt dev
+  853  nuxt js
+  854  nuxt dev
+  855  pnpm add -D prettier
+  856  pnpm remove -D prettier
+  857  pnpm add -D prettier
+  858  pnpm add -D prettier
+  859  nuxt dev
+  860  nuxt dev
+  861  nuxt dev
+  862  nuxt dev
+  863  eslint --fix
+  864  nuxt dev
+  865  eslint --fix
+  866  nuxt dev
+  867  pnpm lint:fix
+  868  pnpm lint:fix
+  869  pnpm lint:fix
+  870  pnpm lint:fix
+  871  prettier --check .
+  872  prettier --check .
+  873  prettier
+  874  pnpm -g prettier
+  875  pnpm add -g prettier
+  876  which prettier
+  877  which node
+  878  pnpm add -D eslint-plugin-prettier
+  879  nuxt run
+  880  nuxt dev
+  881  prettier --write
+  882  prettier --write .
+  883  which node
+  884  nuxt dev -O
+  885  pnpm remove eslint-plugin-prettier 
+  886  nuxt dev
+  887  nuxt dev
+  888  nuxt dev
+  889  nuxt dev -O
+  890  nuxt dev -o
+  891  pnpm add -D scss
+  892  nuxt dev -o
+  893  pnpm remove scss
+  894  pnpm add -D sass
+  895  nuxt dev
+  896  node -v
+  897  node -v
+  898  nuxt dev
+  899  nuxt -v
+  900  nuxt -v
+  901  nuxt dev
+  902  nuxt dev
+  903  pnpm i
+  904  nuxt dev
+  905  pnpm remove sass
+  906  nuxt dev
+  907  nuxt dev -o
+  908  pnpm add sass -D
+  909  nuxt dev
+  910  nuxt dev
+  911  nuxt dev
+  912  nuxt dev
+  913  nuxt dev
+  914  nuxt dev
+  915  nuxt dev
+  916  pnpm add eslint-config-prettier -D
+  917  nuxt dev
+  918  nuxt dev
+  919  cd Desktop/Projects/salinder.ru-nuxt
+  920  ls
+  921  pwd
+  922  ls
+  923  cd Desktop
+  924  ls
+  925  cd Projects
+  926  ls
+  927  cd salinder.ru
+  928  ls
+  929  cd client
+  930  ls
+  931  ls
+  932  ls
+  933  cd Desktop
+  934  ls
+  935  cd Projects
+  936  ls
+  937  ls
+  938  cd salinder.ru
+  939  ls
+  940  cd salinder.ru-nuxt
+  941  ls
+  942  cd
+  943  ls
+  944  cd Desktop
+  945  ls
+  946  cd Projects
+  947  ls
+  948  cd ..
+  949  ls
+  950  ls
+  951  cd Work
+  952  ls
+  953  cd salinder.ru
+  954  ls
+  955  cd ..
+  956  ls
+  957  cd ..
+  958  ls
+  959  cd Projects
+  960  ls
+  961  cd 
+  962  ls
+  963  cd Desktop
+  964  ls
+  965  ~/.bash_history
+  966  sudo ~ /.bash_history
+  967  ls
+  968  ls Projects
+  969  sudo ~ /.bash_history
+  970  sudo ~/.bash_history
+  971  cat ~/.zsh_history
+  972  cd Projects
+  973  ls
+  974  traceroute
+  975  ды
+  976  ls
+  977  cd Doc
+  978  cd Desktop
+  979  ls
+  980  cd Projects
+  981  ls
+  982  cd salinnder-nuxt
+  983  cd salinder.ru-nuxt
+  984  ls
+  985  subl .
+  986  pnpm run dev
+  987  open ~/Library/icloud/accounts
+  988  open ~/Library/Google
+  989  dscl . list /Users | grep -v "^_"
+  990  nmap
+  991  pbcopy < ~/.ssh/id_rsa.pu
+  992  pbcopy < ~/.ssh/id_rsa.pub
+  993  ssh nikolaysalinder@192.168.1.1
+  994  ssh root@192.168.1.1
+  995  npm google.com
+  996  stacktrace google.com
+  997  ls
+  998  cd Downloads
+  999  bzip2 -cd nmap-7.94.tar.bz2 | tar xvf -
+ 1000  homebrew version
+ 1001  $ 
+ 1002  bash -c "$(curl -fsSL https://raw.githubusercontent.com/tjt263/macports-installer/master/macports-installer.sh)"
+ 1003  sudo port install nmap
+ 1004  sudo port install nmap
+ 1005  brew
+ 1006  brew install nmap
+ 1007  mkdir -p /Applications/Docker.app/Contents/Resources/cli-plugins
+ 1008  brew cleanup
+ 1009  nmap
+ 1010  nmap -sn --traceroute google.com microsoft.com
+ 1011  root nmap -sn --traceroute google.com microsoft.com
+ 1012  sudo nmap -sn --traceroute google.com microsoft.com
+ 1013  nmap -sP 192.168.2.0/24
+ 1014  sudo nmap -sn --traceroute google.com microsoft.com
+ 1015  stacktrace
+ 1016  stacktrace
+ 1017  nmap -sn --traceroute google.com microsoft.com\n
+ 1018  sudo nmap -sn --traceroute google.com microsoft.com\n
+ 1019  sudo nmap -sn --traceroute google.com microsoft.com\n
+ 1020  nmap -sn --traceroute google.com microsoft.com\n
+ 1021  subl
+ 1022  subl -v
+ 1023  ls
+ 1024  cd .
+ 1025  ls
+ 1026  cd ..
+ 1027  ls
+ 1028  cd ..
+ 1029  cd /
+ 1030  ls
+ 1031  cd Users
+ 1032  ls
+ 1033  ls cd Sha
+ 1034  cd Shared
+ 1035  ls
+ 1036  cd ..
+ 1037  ls
+ 1038  Cd nikolaysalinder
+ 1039  ls
+ 1040  pwd
+ 1041  ls
+ 1042  cd nikolaysalinder
+ 1043  ls
+ 1044  ls -a
+ 1045  cd .ssh
+ 1046  ls
+ 1047  ls
+ 1048  code id_rsa.pub
+ 1049  cd ..
+ 1050  history
+ 1051  help history
+ 1052  history help
+ 1053  history all
+ 1054  history 1051
+nikolaysalinder@MacBook-Pro-Nikolay-1 ~ % 
+
+# New terminal log
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-25 12:53 MSK
+Nmap scan report for google.com (173.194.222.102)
+Host is up (0.0048s latency).
+Other addresses for google.com (not scanned): 173.194.222.101 173.194.222.100 173.194.222.138 173.194.222.113 173.194.222.139
+rDNS record for 173.194.222.102: lo-in-f102.1e100.net
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+1   5.69 ms 10.146.35.253
+2   ... 3
+4   4.04 ms 74.125.244.132
+5   5.48 ms 142.251.61.219
+6   6.87 ms 172.253.51.241
+7   ... 15
+16  4.71 ms lo-in-f102.1e100.net (173.194.222.102)
+
+Nmap scan report for microsoft.com (20.112.250.133)
+Host is up (0.15s latency).
+Other addresses for microsoft.com (not scanned): 20.231.239.246 20.76.201.171 20.70.246.20 20.236.44.162
+
+TRACEROUTE (using port 443/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 173.194.222.102
+2   ...
+3   1.42 ms   ae2-298.RT.BM.SPB.RU.retn.net (87.245.251.8)
+4   12.65 ms  ae4-9.RT.TC1.STO.SE.retn.net (87.245.233.73)
+5   42.38 ms  retn.ier02.sto.ntwk.msn.net (104.44.47.27)
+6   42.32 ms  ae21-0.ear02.sto31.ntwk.msn.net (104.44.239.199)
+7   143.65 ms be-24-0.ibr01.sto31.ntwk.msn.net (104.44.22.170)
+8   146.24 ms be-6-0.ibr02.ham31.ntwk.msn.net (104.44.17.207)
+9   143.75 ms be-3-0.ibr02.ham30.ntwk.msn.net (104.44.29.2)
+10  146.33 ms be-12-0.ibr06.ams06.ntwk.msn.net (104.44.30.73)
+11  144.30 ms be-11-0.ibr01.ams21.ntwk.msn.net (104.44.29.242)
+12  143.84 ms be-1-0.ibr02.ams30.ntwk.msn.net (104.44.16.147)
+13  146.88 ms be-15-0.ibr02.lon22.ntwk.msn.net (104.44.31.2)
+14  145.91 ms be-7-0.ibr02.nyc30.ntwk.msn.net (104.44.18.154)
+15  150.21 ms be-3-0.ibr02.ewr30.ntwk.msn.net (104.44.7.105)
+16  146.18 ms be-8-0.ibr01.cle30.ntwk.msn.net (104.44.17.201)
+17  146.32 ms be-11-0.ibr02.ch4.ntwk.msn.net (104.44.29.45)
+18  144.37 ms be-7-0.ibr04.dsm05.ntwk.msn.net (104.44.28.222)
+19  143.96 ms ae162-0.icr04.dsm05.ntwk.msn.net (104.44.22.208)
+20  ... 30
+
+
+
 
